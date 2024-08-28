@@ -1,7 +1,5 @@
 # 😄 Afonso Azaruja
 
-**`Currently studying CmpSci at IST, University of Lisbon`**
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=afonsoazaruja&show_icons=true&hide_rank=true&theme=gruvbox">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoazaruja&layout=compact&theme=gruvbox">
